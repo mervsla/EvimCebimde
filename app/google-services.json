@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937289966440",
+    "firebase_url": "https://evim-cebimde.firebaseio.com",
+    "project_id": "evim-cebimde",
+    "storage_bucket": "evim-cebimde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937289966440:android:be72c105f520bdcf6b2cdd",
+        "android_client_info": {
+          "package_name": "com.sbm.evimcebimde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937289966440-sthuakcqgq6a1m6idsslj8aa332o8uf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdziijT4mSnrwO2uGXEEI2Oel3d5u6EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937289966440-sthuakcqgq6a1m6idsslj8aa332o8uf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
